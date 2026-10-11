@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
-  <title>Ruby</title>
-  <polygon points="14,8 34,8 42,18 24,42 6,18" fill="#CC342D"/>
-  <polygon points="14,8 24,18 6,18" fill="#FF6F61"/>
-  <polygon points="34,8 24,18 42,18" fill="#9B1C1C"/>
-  <polygon points="24,18 6,18 24,42" fill="#E0463E"/>
-  <polygon points="24,18 42,18 24,42" fill="#B02A24"/>
-</svg>

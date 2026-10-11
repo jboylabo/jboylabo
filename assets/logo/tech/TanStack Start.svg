@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
-  <title>TanStack Start</title>
-  <rect width="48" height="48" rx="10" fill="#000000"/>
-  <path d="M24 8 L40 24 L24 40 L8 24 Z" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
-  <path d="M24 16 L32 24 L24 32 L16 24 Z" fill="#FF4154"/>
-  <path d="M24 8 L24 16 M40 24 L32 24 M24 40 L24 32 M8 24 L16 24" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
-</svg>

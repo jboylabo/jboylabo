@@ -34,7 +34,7 @@ iOS / Android・モバイルアプリ開発
     <td align="center" width="140"><img src="assets/logo/tech/Dart.png" alt="Dart" width="48" height="48" /><br />Dart</td>
   </tr>
   <tr>
-    <td align="center" width="140"><img src="assets/logo/tech/SwiftUI.svg" alt="SwiftUI" width="48" height="48" /><br />SwiftUI</td>
+    <td align="center" width="140"><img src="assets/logo/tech/swiftui.png" alt="SwiftUI" width="48" height="48" /><br />SwiftUI</td>
   </tr>
 </table>
 
@@ -50,7 +50,7 @@ Web UI・フロントエンド
     <td align="center" width="140"><img src="assets/logo/tech/Tailwind%20CSS.png" alt="Tailwind CSS" width="48" height="48" /><br />Tailwind CSS</td>
   </tr>
   <tr>
-    <td align="center" width="140"><img src="assets/logo/tech/TanStack%20Start.svg" alt="TanStack Start" width="48" height="48" /><br />TanStack Start</td>
+    <td align="center" width="140"><img src="assets/logo/tech/tanstack.png" alt="TanStack Start" width="48" height="48" /><br />TanStack Start</td>
   </tr>
 </table>
 
@@ -67,9 +67,8 @@ Web UI・フロントエンド
   </tr>
   <tr>
     <td align="center" width="140"><img src="assets/logo/tech/Swagger.png" alt="Swagger" width="48" height="48" /><br />Swagger</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Hono.svg" alt="Hono" width="48" height="48" /><br />Hono</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Ruby.svg" alt="Ruby" width="48" height="48" /><br />Ruby</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Rails.svg" alt="Rails" width="48" height="48" /><br />Rails</td>
+    <td align="center" width="140"><img src="assets/logo/tech/Ruby.png" alt="Ruby" width="48" height="48" /><br />Ruby</td>
+    <td align="center" width="140"><img src="assets/logo/tech/rails.png" alt="Rails" width="48" height="48" /><br />Rails</td>
   </tr>
 </table>
 
@@ -97,8 +96,7 @@ Web UI・フロントエンド
     <td align="center" width="140"><img src="assets/logo/tech/Gradle-readable.png" alt="Gradle" width="48" height="48" /><br />Gradle</td>
   </tr>
   <tr>
-    <td align="center" width="140"><img src="assets/logo/tech/AWS.svg" alt="AWS" width="48" height="48" /><br />AWS</td>
-    <td align="center" width="140"><img src="assets/logo/tech/CDK.svg" alt="AWS CDK" width="48" height="48" /><br />AWS CDK</td>
+    <td align="center" width="140"><img src="assets/logo/tech/AWS.png" alt="AWS" width="48" height="48" /><br />AWS</td>
   </tr>
 </table>
 
@@ -114,9 +112,7 @@ Web UI・フロントエンド
     <td align="center" width="140"><img src="assets/logo/tech/Figma.png" alt="Figma" width="48" height="48" /><br />Figma</td>
   </tr>
   <tr>
-    <td align="center" width="140"><img src="assets/logo/tech/Trello.png" alt="Trello" width="48" height="48" /><br />Trello</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Vitest.svg" alt="Vitest" width="48" height="48" /><br />Vitest</td>
-  </tr>
+    <td align="center" width="140"><img src="assets/logo/tech/Trello.png" alt="Trello" width="48" height="48" /><br />Trello</td>  </tr>
 </table>
 
 ### IDE & Editors
