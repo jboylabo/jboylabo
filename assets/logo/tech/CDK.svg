@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <title>CDK</title>
+  <polygon points="24,4 42,14 24,24 6,14" fill="#FF9900"/>
+  <polygon points="6,14 24,24 24,44 6,34" fill="#8C4FFF"/>
+  <polygon points="42,14 24,24 24,44 42,34" fill="#5A2DBF"/>
+</svg>

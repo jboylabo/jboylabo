@@ -33,6 +33,9 @@ iOS / Android・モバイルアプリ開発
   <tr>
     <td align="center" width="140"><img src="assets/logo/tech/Dart.png" alt="Dart" width="48" height="48" /><br />Dart</td>
   </tr>
+  <tr>
+    <td align="center" width="140"><img src="assets/logo/tech/SwiftUI.svg" alt="SwiftUI" width="48" height="48" /><br />SwiftUI</td>
+  </tr>
 </table>
 
 ### Frontend
@@ -45,6 +48,9 @@ Web UI・フロントエンド
     <td align="center" width="140"><img src="assets/logo/tech/React.png" alt="React" width="48" height="48" /><br />React</td>
     <td align="center" width="140"><img src="assets/logo/tech/Vite.js.png" alt="Vite" width="48" height="48" /><br />Vite</td>
     <td align="center" width="140"><img src="assets/logo/tech/Tailwind%20CSS.png" alt="Tailwind CSS" width="48" height="48" /><br />Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><img src="assets/logo/tech/TanStack%20Start.svg" alt="TanStack Start" width="48" height="48" /><br />TanStack Start</td>
   </tr>
 </table>
 
@@ -61,6 +67,9 @@ Web UI・フロントエンド
   </tr>
   <tr>
     <td align="center" width="140"><img src="assets/logo/tech/Swagger.png" alt="Swagger" width="48" height="48" /><br />Swagger</td>
+    <td align="center" width="140"><img src="assets/logo/tech/Hono.svg" alt="Hono" width="48" height="48" /><br />Hono</td>
+    <td align="center" width="140"><img src="assets/logo/tech/Ruby.svg" alt="Ruby" width="48" height="48" /><br />Ruby</td>
+    <td align="center" width="140"><img src="assets/logo/tech/Rails.svg" alt="Rails" width="48" height="48" /><br />Rails</td>
   </tr>
 </table>
 
@@ -87,6 +96,10 @@ Web UI・フロントエンド
     <td align="center" width="140"><img src="assets/logo/tech/GitHub%20Actions.png" alt="GitHub Actions" width="48" height="48" /><br />GitHub Actions</td>
     <td align="center" width="140"><img src="assets/logo/tech/Gradle-readable.png" alt="Gradle" width="48" height="48" /><br />Gradle</td>
   </tr>
+  <tr>
+    <td align="center" width="140"><img src="assets/logo/tech/AWS.svg" alt="AWS" width="48" height="48" /><br />AWS</td>
+    <td align="center" width="140"><img src="assets/logo/tech/CDK.svg" alt="AWS CDK" width="48" height="48" /><br />AWS CDK</td>
+  </tr>
 </table>
 
 ### Development Tools
@@ -102,6 +115,7 @@ Web UI・フロントエンド
   </tr>
   <tr>
     <td align="center" width="140"><img src="assets/logo/tech/Trello.png" alt="Trello" width="48" height="48" /><br />Trello</td>
+    <td align="center" width="140"><img src="assets/logo/tech/Vitest.svg" alt="Vitest" width="48" height="48" /><br />Vitest</td>
   </tr>
 </table>
 
