@@ -33,6 +33,9 @@ iOS / Android・モバイルアプリ開発
   <tr>
     <td align="center" width="140"><img src="assets/logo/tech/Dart.png" alt="Dart" width="48" height="48" /><br />Dart</td>
   </tr>
+  <tr>
+    <td align="center" width="140"><img src="assets/logo/tech/swiftui.png" alt="SwiftUI" width="48" height="48" /><br />SwiftUI</td>
+  </tr>
 </table>
 
 ### Frontend
@@ -45,6 +48,9 @@ Web UI・フロントエンド
     <td align="center" width="140"><img src="assets/logo/tech/React.png" alt="React" width="48" height="48" /><br />React</td>
     <td align="center" width="140"><img src="assets/logo/tech/Vite.js.png" alt="Vite" width="48" height="48" /><br />Vite</td>
     <td align="center" width="140"><img src="assets/logo/tech/Tailwind%20CSS.png" alt="Tailwind CSS" width="48" height="48" /><br />Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><img src="assets/logo/tech/tanstack.png" alt="TanStack Start" width="48" height="48" /><br />TanStack Start</td>
   </tr>
 </table>
 
@@ -61,6 +67,8 @@ Web UI・フロントエンド
   </tr>
   <tr>
     <td align="center" width="140"><img src="assets/logo/tech/Swagger.png" alt="Swagger" width="48" height="48" /><br />Swagger</td>
+    <td align="center" width="140"><img src="assets/logo/tech/Ruby.png" alt="Ruby" width="48" height="48" /><br />Ruby</td>
+    <td align="center" width="140"><img src="assets/logo/tech/rails.png" alt="Rails" width="48" height="48" /><br />Rails</td>
   </tr>
 </table>
 
@@ -87,6 +95,9 @@ Web UI・フロントエンド
     <td align="center" width="140"><img src="assets/logo/tech/GitHub%20Actions.png" alt="GitHub Actions" width="48" height="48" /><br />GitHub Actions</td>
     <td align="center" width="140"><img src="assets/logo/tech/Gradle-readable.png" alt="Gradle" width="48" height="48" /><br />Gradle</td>
   </tr>
+  <tr>
+    <td align="center" width="140"><img src="assets/logo/tech/AWS.png" alt="AWS" width="48" height="48" /><br />AWS</td>
+  </tr>
 </table>
 
 ### Development Tools
@@ -101,8 +112,7 @@ Web UI・フロントエンド
     <td align="center" width="140"><img src="assets/logo/tech/Figma.png" alt="Figma" width="48" height="48" /><br />Figma</td>
   </tr>
   <tr>
-    <td align="center" width="140"><img src="assets/logo/tech/Trello.png" alt="Trello" width="48" height="48" /><br />Trello</td>
-  </tr>
+    <td align="center" width="140"><img src="assets/logo/tech/Trello.png" alt="Trello" width="48" height="48" /><br />Trello</td>  </tr>
 </table>
 
 ### IDE & Editors
