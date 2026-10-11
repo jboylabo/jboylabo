@@ -32,8 +32,6 @@ iOS / Android・モバイルアプリ開発
   </tr>
   <tr>
     <td align="center" width="140"><img src="assets/logo/tech/Dart.png" alt="Dart" width="48" height="48" /><br />Dart</td>
-  </tr>
-  <tr>
     <td align="center" width="140"><img src="assets/logo/tech/swiftui.png" alt="SwiftUI" width="48" height="48" /><br />SwiftUI</td>
   </tr>
 </table>
@@ -96,7 +94,8 @@ Web UI・フロントエンド
     <td align="center" width="140"><img src="assets/logo/tech/Gradle-readable.png" alt="Gradle" width="48" height="48" /><br />Gradle</td>
   </tr>
   <tr>
-    <td align="center" width="140"><img src="assets/logo/tech/AWS.png" alt="AWS" width="48" height="48" /><br />AWS</td>
+    <td align="center" width="140"><img src="assets/logo/tech/AWS-readable.png" alt="AWS" width="48" height="48" /><br />AWS</td>
+    <td align="center" width="140"><img src="assets/logo/tech/cdk.png" alt="AWS CDK" width="48" height="48" /><br />AWS CDK</td>
   </tr>
 </table>
 
@@ -112,7 +111,8 @@ Web UI・フロントエンド
     <td align="center" width="140"><img src="assets/logo/tech/Figma.png" alt="Figma" width="48" height="48" /><br />Figma</td>
   </tr>
   <tr>
-    <td align="center" width="140"><img src="assets/logo/tech/Trello.png" alt="Trello" width="48" height="48" /><br />Trello</td>  </tr>
+    <td align="center" width="140"><img src="assets/logo/tech/Trello.png" alt="Trello" width="48" height="48" /><br />Trello</td>
+  </tr>
 </table>
 
 ### IDE & Editors
