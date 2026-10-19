@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/images/junichi.JPG" alt="Jboy のプロフィール写真" width="280" />
 
-  <h1>Jboy</h1>
+  <h1>Junichi Hashimoto</h1>
   <p><strong>AI × Mobile Developer</strong></p>
   <p>Building the next generation of mobile apps powered by AI.</p>
   <p>AI とモバイルをつなぎ、次のアプリ体験をつくる。</p>
@@ -15,13 +15,13 @@
 
 AI-native Mobile Developer 🤖📱
 
-iOS / Android と LLM Integration を軸にした、技術スタックのポートフォリオです。
+iOS / Android /Webと LLM Integration を軸にした、技術スタックのポートフォリオです。
 
 ## Tech Stack
 
 ### Mobile Development
 
-iOS / Android・モバイルアプリ開発
+iOS / Android /Web
 
 <table>
   <tr>
