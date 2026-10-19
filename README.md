@@ -6,7 +6,6 @@
   <p>Building the next generation of mobile apps powered by AI.</p>
   <p>AI とモバイルをつなぎ、次のアプリ体験をつくる。</p>
   <p><strong>iOS / Android / LLM Integration</strong></p>
-  <p><a href="https://x.com/JBOY83062526">X · @JBOY83062526</a></p>
 </div>
 
 ---
