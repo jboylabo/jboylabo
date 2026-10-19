@@ -147,4 +147,4 @@ LLM・AI コーディングツール
 
 ---
 
-<p align="center"><strong>Jboy · AI × Mobile Developer</strong><br /><a href="https://x.com/JBOY83062526">@JBOY83062526</a></p>
+<p align="center"><strong>Jboy · AI × Mobile Developer</strong></p>
