@@ -5,7 +5,7 @@
   <p><strong>AI × Mobile Developer</strong></p>
   <p>Building the next generation of mobile apps powered by AI.</p>
   <p>AIを活用してプロダクトを作るお仕事をしてます。</p>
-  <p><strong>iOS / Android / LLM Integration</strong></p>
+  <p><strong>iOS / Android / Web LLM Integration</strong></p>
 </div>
 
 ---
@@ -14,7 +14,7 @@
 
 AI-native Mobile Developer 🤖📱
 
-iOS / Android /Webと LLM Integration を軸にした、技術スタックのポートフォリオです。
+iOS / Android / Webと LLM Integration を軸にした、技術スタックのポートフォリオです。
 
 ## Tech Stack
 
