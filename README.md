@@ -4,7 +4,7 @@
   <h1>Junichi Hashimoto</h1>
   <p><strong>AI × Mobile Developer</strong></p>
   <p>Building the next generation of mobile apps powered by AI.</p>
-  <p>AI とモバイルをつなぎ、次のアプリ体験をつくる。</p>
+  <p>AIを活用してプロダクトを作るお仕事をしてます。</p>
   <p><strong>iOS / Android / LLM Integration</strong></p>
 </div>
 
