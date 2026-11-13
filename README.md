@@ -25,12 +25,14 @@ iOS / Android /Web
 <table>
   <tr>
     <td align="center" width="140"><img src="assets/logo/tech/Apple.png" alt="iOS / Apple" width="48" height="48" /><br />iOS / Apple</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Android.png" alt="Android" width="48" height="48" /><br />Android</td>
+    <td align="center" width="140"><img src="assets/logo/tech/Android.png" alt="Android" width="48" height="48" /><br />Android / Google</td>
     <td align="center" width="140"><img src="assets/logo/tech/Swift.png" alt="Swift" width="48" height="48" /><br />Swift</td>
     <td align="center" width="140"><img src="assets/logo/tech/Kotlin.png" alt="Kotlin" width="48" height="48" /><br />Kotlin</td>
   </tr>
   <tr>
     <td align="center" width="140"><img src="assets/logo/tech/Dart.png" alt="Dart" width="48" height="48" /><br />Dart</td>
+    <td align="center" width="140"><img src="assets/logo/tech/Flutter.png" alt="Flutter" width="48" height="48" /><br/>
+    Flutter</td>
     <td align="center" width="140"><img src="assets/logo/tech/swiftui.png" alt="SwiftUI" width="48" height="48" /><br />SwiftUI</td>
   </tr>
 </table>
@@ -51,10 +53,10 @@ TypeScript(フロントエンド・バックエンド)
     <td align="center" width="140"><img src="assets/logo/tech/tanstack.png" alt="TanStack Start" width="48" height="48" /><br />TanStack Start</td>
     <td align="center" width="140"><img src="assets/logo/tech/Node.js.png" alt="Node.js" width="48" height="48" /><br />Node.js</td>
     <td align="center" width="140"><img src="assets/logo/tech/Nest.js.png" alt="NestJS" width="48" height="48" /><br />NestJS</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Jest.png" alt="Jest" width="48" height="48" /><br />Jest</td>
+    <td align="center" width="140"><img src="assets/logo/tech/Jest.png" alt="Jest" width="48" height="48" /><br />Jest</td><br/>
+    <td align="center" width="140"><img src="assets/logo/tech/vitest.png" alt="Vitest" width="48" height="48" /><br />Vitest</td>
   </tr>
   <tr>
-    <td align="center" width="140"><img src="assets/logo/tech/vitest.png" alt="Vitest" width="48" height="48" /><br />Vitest</td>
     <td align="center" width="140"><img src="assets/logo/tech/Drizzle.png" alt="Drizzle" width="48" height="48" /><br />Drizzle</td>
     <td align="center" width="140"><img src="assets/logo/tech/Prisma.png" alt="Prisma" width="48" height="48" /><br />Prisma</td>
   </tr>
@@ -68,11 +70,12 @@ TypeScript(フロントエンド・バックエンド)
   <tr>
     <td align="center" width="140"><img src="assets/logo/tech/Python.png" alt="Python" width="48" height="48" /><br />Python</td>
     <td align="center" width="140"><img src="assets/logo/tech/FastAPI.png" alt="FastAPI" width="48" height="48" /><br />FastAPI</td>
+    <td align="center" width="140"><img src="assets/logo/tech/pytest.png" alt="pytest" width="48" height="48" /><br />pytest</td>
+     <td align="center" width="140"><img src="assets/logo/tech/Ruby.png" alt="Ruby" width="48" height="48" /><br />Ruby</td>
+    <td align="center" width="140"><img src="assets/logo/tech/rails.png" alt="Rails" width="48" height="48" /><br />Rails</td>
   </tr>
   <tr>
     <td align="center" width="140"><img src="assets/logo/tech/Swagger.png" alt="Swagger" width="48" height="48" /><br />Swagger</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Ruby.png" alt="Ruby" width="48" height="48" /><br />Ruby</td>
-    <td align="center" width="140"><img src="assets/logo/tech/rails.png" alt="Rails" width="48" height="48" /><br />Rails</td>
     <td align="center" width="140"><img src="assets/logo/tech/RSpec.png" alt="Rails" width="48" height="48" /><br />RSpec</td>
   </tr>
 </table>
@@ -114,7 +117,6 @@ TypeScript(フロントエンド・バックエンド)
   <tr>
     <td align="center" width="140"><img src="assets/logo/tech/GitHub-readable.png" alt="GitHub" width="48" height="48" /><br />GitHub</td>
     <td align="center" width="140"><img src="assets/logo/tech/GitLab.png" alt="GitLab" width="48" height="48" /><br />GitLab</td>
-    <td align="center" width="140"><img src="assets/logo/tech/pytest.png" alt="pytest" width="48" height="48" /><br />pytest</td>
     <td align="center" width="140"><img src="assets/logo/tech/Figma.png" alt="Figma" width="48" height="48" /><br />Figma</td>
   </tr>
   <tr>
