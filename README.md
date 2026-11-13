@@ -24,41 +24,82 @@ iOS / Android /Web
 
 <table>
   <tr>
-    <td align="center" width="140"><img src="assets/logo/tech/Apple.png" alt="iOS / Apple" width="48" height="48" /><br />iOS / Apple</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Android.png" alt="Android" width="48" height="48" /><br />Android / Google</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Swift.png" alt="Swift" width="48" height="48" /><br />Swift</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Kotlin.png" alt="Kotlin" width="48" height="48" /><br />Kotlin</td>
+    <td align="center" width="140">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/logo/tech/Apple-dark.png" />
+          <img src="assets/logo/tech/Apple-light.png" alt="iOS / Apple" width="48" height="48" />
+        </picture><br />iOS / Apple
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/Android.png" alt="Android / Google" width="48" height="48" /><br />Android / Google
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/Swift.png" alt="Swift" width="48" height="48" /><br />Swift
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/Kotlin.png" alt="Kotlin" width="48" height="48" /><br />Kotlin
+    </td>
   </tr>
   <tr>
-    <td align="center" width="140"><img src="assets/logo/tech/Dart.png" alt="Dart" width="48" height="48" /><br />Dart</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Flutter.png" alt="Flutter" width="48" height="48" /><br/>
-    Flutter</td>
-    <td align="center" width="140"><img src="assets/logo/tech/swiftui.png" alt="SwiftUI" width="48" height="48" /><br />SwiftUI</td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/Dart.png" alt="Dart" width="48" height="48" /><br />Dart
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/Flutter.png" alt="Flutter" width="48" height="48" /><br />Flutter
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/swiftui.png" alt="SwiftUI" width="48" height="48" /><br />SwiftUI
+    </td>
+    <td width="140"></td>
   </tr>
 </table>
 
-### Frontend
+### TypeScript Frontend & バックエンド・API 開発
 
-TypeScript(フロントエンド・バックエンド)
+TypeScript/Node.js
 
 <table>
   <tr>
-    <td align="center" width="140"><img src="assets/logo/tech/TypeScript.png" alt="TypeScript" width="48" height="48" /><br />TypeScript</td>
-    <td align="center" width="140"><img src="assets/logo/tech/React.png" alt="React" width="48" height="48" /><br />React</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Vite.js.png" alt="Vite" width="48" height="48" /><br />Vite</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Tailwind%20CSS.png" alt="Tailwind CSS" width="48" height="48" /><br />Tailwind CSS</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Mantine.png" alt="Mantine" width="48" height="48" /><br />Mantine</td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/TypeScript.png" alt="TypeScript" width="48" height="48" /><br />TypeScript
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/React.png" alt="React" width="48" height="48" /><br />React
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/Vite.js.png" alt="Vite" width="48" height="48" /><br />Vite
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/Tailwind%20CSS.png" alt="Tailwind CSS" width="48" height="48" /><br />Tailwind CSS
+    </td>
   </tr>
   <tr>
-    <td align="center" width="140"><img src="assets/logo/tech/tanstack.png" alt="TanStack Start" width="48" height="48" /><br />TanStack Start</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Node.js.png" alt="Node.js" width="48" height="48" /><br />Node.js</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Nest.js.png" alt="NestJS" width="48" height="48" /><br />NestJS</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Jest.png" alt="Jest" width="48" height="48" /><br />Jest</td><br/>
-    <td align="center" width="140"><img src="assets/logo/tech/vitest.png" alt="Vitest" width="48" height="48" /><br />Vitest</td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/Mantine.png" alt="Mantine" width="48" height="48" /><br />Mantine
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/tanstack.png" alt="TanStack Start" width="48" height="48" /><br />TanStack Start
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/Node.js.png" alt="Node.js" width="48" height="48" /><br />Node.js
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/Nest.js.png" alt="NestJS" width="48" height="48" /><br />NestJS
+    </td>
   </tr>
   <tr>
-    <td align="center" width="140"><img src="assets/logo/tech/Drizzle.png" alt="Drizzle" width="48" height="48" /><br />Drizzle</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Prisma.png" alt="Prisma" width="48" height="48" /><br />Prisma</td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/Jest.png" alt="Jest" width="48" height="48" /><br />Jest
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/Vitest--Streamline-Svg-Logos.svg" alt="Vitest" width="48" height="48" /><br />Vitest
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/Drizzle.png" alt="Drizzle" width="48" height="48" /><br />Drizzle
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/Prisma.png" alt="Prisma" width="48" height="48" /><br />Prisma
+    </td>
   </tr>
 </table>
 
@@ -68,15 +109,32 @@ TypeScript(フロントエンド・バックエンド)
 
 <table>
   <tr>
-    <td align="center" width="140"><img src="assets/logo/tech/Python.png" alt="Python" width="48" height="48" /><br />Python</td>
-    <td align="center" width="140"><img src="assets/logo/tech/FastAPI.png" alt="FastAPI" width="48" height="48" /><br />FastAPI</td>
-    <td align="center" width="140"><img src="assets/logo/tech/pytest.png" alt="pytest" width="48" height="48" /><br />pytest</td>
-     <td align="center" width="140"><img src="assets/logo/tech/Ruby.png" alt="Ruby" width="48" height="48" /><br />Ruby</td>
-    <td align="center" width="140"><img src="assets/logo/tech/rails.png" alt="Rails" width="48" height="48" /><br />Rails</td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/Python.png" alt="Python" width="48" height="48" /><br />Python
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/FastAPI.png" alt="FastAPI" width="48" height="48" /><br />FastAPI
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/pytest.png" alt="pytest" width="48" height="48" /><br />pytest
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/Ruby.png" alt="Ruby" width="48" height="48" /><br />Ruby
+    </td>
   </tr>
   <tr>
-    <td align="center" width="140"><img src="assets/logo/tech/Swagger.png" alt="Swagger" width="48" height="48" /><br />Swagger</td>
-    <td align="center" width="140"><img src="assets/logo/tech/RSpec.png" alt="Rails" width="48" height="48" /><br />RSpec</td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/rails.png" alt="Rails" width="48" height="48" /><br />Rails
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/RSpec.png" alt="RSpec" width="48" height="48" /><br />RSpec
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/Swagger.png" alt="Swagger" width="48" height="48" /><br />Swagger
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/OpenAPI.png" alt="OpenAPI" width="48" height="48" /><br />OpenAPI
+    </td>
   </tr>
 </table>
 
@@ -86,9 +144,16 @@ TypeScript(フロントエンド・バックエンド)
 
 <table>
   <tr>
-    <td align="center" width="140"><img src="assets/logo/tech/PostgresSQL.png" alt="PostgreSQL" width="48" height="48" /><br />PostgreSQL</td>
-    <td align="center" width="140"><img src="assets/logo/tech/MySQL.png" alt="MySQL" width="48" height="48" /><br />MySQL</td>
-    <td align="center" width="140"><img src="assets/logo/tech/SQLite.png" alt="SQLite" width="48" height="48" /><br />SQLite</td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/PostgresSQL.png" alt="PostgreSQL" width="48" height="48" /><br />PostgreSQL
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/MySQL.png" alt="MySQL" width="48" height="48" /><br />MySQL
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/SQLite.png" alt="SQLite" width="48" height="48" /><br />SQLite
+    </td>
+    <td width="140"></td>
   </tr>
 </table>
 
@@ -98,14 +163,34 @@ TypeScript(フロントエンド・バックエンド)
 
 <table>
   <tr>
-    <td align="center" width="140"><img src="assets/logo/tech/Google%20Cloud.png" alt="Google Cloud" width="48" height="48" /><br />Google Cloud</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Cloudflare.png" alt="Cloudflare" width="48" height="48" /><br />Cloudflare</td>
-    <td align="center" width="140"><img src="assets/logo/tech/GitHub%20Actions.png" alt="GitHub Actions" width="48" height="48" /><br />GitHub Actions</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Gradle-readable.png" alt="Gradle" width="48" height="48" /><br />Gradle</td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/Google%20Cloud.png" alt="Google Cloud" width="48" height="48" /><br />Google Cloud
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/Cloudflare.png" alt="Cloudflare" width="48" height="48" /><br />Cloudflare
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/GitHub%20Actions.png" alt="GitHub Actions" width="48" height="48" /><br />GitHub Actions
+    </td>
+    <td align="center" width="140">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/logo/tech/Gradle-dark.png" />
+          <img src="assets/logo/tech/Gradle-light.png" alt="Gradle" width="48" height="48" />
+        </picture><br />Gradle
+    </td>
   </tr>
   <tr>
-    <td align="center" width="140"><img src="assets/logo/tech/AWS-readable.png" alt="AWS" width="48" height="48" /><br />AWS</td>
-    <td align="center" width="140"><img src="assets/logo/tech/cdk.png" alt="AWS CDK" width="48" height="48" /><br />AWS CDK</td>
+    <td align="center" width="140">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/logo/tech/AWS-dark.png" />
+          <img src="assets/logo/tech/AWS-light.png" alt="AWS" width="48" height="48" />
+        </picture><br />AWS
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/cdk.png" alt="AWS CDK" width="48" height="48" /><br />AWS CDK
+    </td>
+    <td width="140"></td>
+    <td width="140"></td>
   </tr>
 </table>
 
@@ -115,12 +200,21 @@ TypeScript(フロントエンド・バックエンド)
 
 <table>
   <tr>
-    <td align="center" width="140"><img src="assets/logo/tech/GitHub-readable.png" alt="GitHub" width="48" height="48" /><br />GitHub</td>
-    <td align="center" width="140"><img src="assets/logo/tech/GitLab.png" alt="GitLab" width="48" height="48" /><br />GitLab</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Figma.png" alt="Figma" width="48" height="48" /><br />Figma</td>
-  </tr>
-  <tr>
-    <td align="center" width="140"><img src="assets/logo/tech/Trello.png" alt="Trello" width="48" height="48" /><br />Trello</td>
+    <td align="center" width="140">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/logo/tech/GitHub-dark.png" />
+          <img src="assets/logo/tech/GitHub-light.png" alt="GitHub" width="48" height="48" />
+        </picture><br />GitHub
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/GitLab.png" alt="GitLab" width="48" height="48" /><br />GitLab
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/Figma.png" alt="Figma" width="48" height="48" /><br />Figma
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/tech/Trello.png" alt="Trello" width="48" height="48" /><br />Trello
+    </td>
   </tr>
 </table>
 
@@ -130,9 +224,16 @@ TypeScript(フロントエンド・バックエンド)
 
 <table>
   <tr>
-    <td align="center" width="140"><img src="assets/logo/IDE/Xcode.png" alt="Xcode" width="48" height="48" /><br />Xcode</td>
-    <td align="center" width="140"><img src="assets/logo/IDE/Android%20Studio.png" alt="Android Studio" width="48" height="48" /><br />Android Studio</td>
-    <td align="center" width="140"><img src="assets/logo/IDE/VSCode.png" alt="VS Code" width="48" height="48" /><br />VS Code</td>
+    <td align="center" width="140">
+        <img src="assets/logo/IDE/Xcode.png" alt="Xcode" width="48" height="48" /><br />Xcode
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/IDE/Android%20Studio.png" alt="Android Studio" width="48" height="48" /><br />Android Studio
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/IDE/VSCode.png" alt="VS Code" width="48" height="48" /><br />VS Code
+    </td>
+    <td width="140"></td>
   </tr>
 </table>
 
@@ -142,16 +243,41 @@ LLM・AI コーディングツール
 
 <table>
   <tr>
-    <td align="center" width="140"><img src="assets/logo/LLM/openai.png" alt="OpenAI" width="48" height="48" /><br />OpenAI</td>
-    <td align="center" width="140"><img src="assets/logo/LLM/claude-color.png" alt="Claude" width="48" height="48" /><br />Claude</td>
-    <td align="center" width="140"><img src="assets/logo/LLM/gemini-color.png" alt="Gemini" width="48" height="48" /><br />Gemini</td>
-    <td align="center" width="140"><img src="assets/logo/LLM/codex-color.png" alt="Codex" width="48" height="48" /><br />Codex</td>
+    <td align="center" width="140">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/logo/LLM/openai-dark.png" />
+          <img src="assets/logo/LLM/openai-light.png" alt="OpenAI" width="48" height="48" />
+        </picture><br />OpenAI
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/LLM/claude-color.png" alt="Claude" width="48" height="48" /><br />Claude
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/LLM/gemini-color.png" alt="Gemini" width="48" height="48" /><br />Gemini
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/LLM/codex-color.png" alt="Codex" width="48" height="48" /><br />Codex
+    </td>
   </tr>
   <tr>
-    <td align="center" width="140"><img src="assets/logo/LLM/claudecode-color.png" alt="Claude Code" width="48" height="48" /><br />Claude Code</td>
-    <td align="center" width="140"><img src="assets/logo/LLM/githubcopilot.png" alt="GitHub Copilot" width="48" height="48" /><br />GitHub Copilot</td>
-    <td align="center" width="140"><img src="assets/logo/LLM/cursor.png" alt="Cursor" width="48" height="48" /><br />Cursor</td>
-    <td align="center" width="140"><img src="assets/logo/LLM/devin-color.png" alt="Devin" width="48" height="48" /><br />Devin</td>
+    <td align="center" width="140">
+        <img src="assets/logo/LLM/claudecode-color.png" alt="Claude Code" width="48" height="48" /><br />Claude Code
+    </td>
+    <td align="center" width="140">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/logo/LLM/githubcopilot-dark.png" />
+          <img src="assets/logo/LLM/githubcopilot-light.png" alt="GitHub Copilot" width="48" height="48" />
+        </picture><br />GitHub Copilot
+    </td>
+    <td align="center" width="140">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/logo/LLM/cursor-dark.png" />
+          <img src="assets/logo/LLM/cursor-light.png" alt="Cursor" width="48" height="48" />
+        </picture><br />Cursor
+    </td>
+    <td align="center" width="140">
+        <img src="assets/logo/LLM/devin-color.png" alt="Devin" width="48" height="48" /><br />Devin
+    </td>
   </tr>
 </table>
 
