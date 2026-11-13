@@ -37,7 +37,7 @@ iOS / Android /Web
 
 ### Frontend
 
-Web UI・フロントエンド
+TypeScript(フロントエンド・バックエンド)
 
 <table>
   <tr>
@@ -45,9 +45,18 @@ Web UI・フロントエンド
     <td align="center" width="140"><img src="assets/logo/tech/React.png" alt="React" width="48" height="48" /><br />React</td>
     <td align="center" width="140"><img src="assets/logo/tech/Vite.js.png" alt="Vite" width="48" height="48" /><br />Vite</td>
     <td align="center" width="140"><img src="assets/logo/tech/Tailwind%20CSS.png" alt="Tailwind CSS" width="48" height="48" /><br />Tailwind CSS</td>
+    <td align="center" width="140"><img src="assets/logo/tech/Mantine.png" alt="Mantine" width="48" height="48" /><br />Mantine</td>
   </tr>
   <tr>
     <td align="center" width="140"><img src="assets/logo/tech/tanstack.png" alt="TanStack Start" width="48" height="48" /><br />TanStack Start</td>
+    <td align="center" width="140"><img src="assets/logo/tech/Node.js.png" alt="Node.js" width="48" height="48" /><br />Node.js</td>
+    <td align="center" width="140"><img src="assets/logo/tech/Nest.js.png" alt="NestJS" width="48" height="48" /><br />NestJS</td>
+    <td align="center" width="140"><img src="assets/logo/tech/Jest.png" alt="Jest" width="48" height="48" /><br />Jest</td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><img src="assets/logo/tech/vitest.png" alt="Vitest" width="48" height="48" /><br />Vitest</td>
+    <td align="center" width="140"><img src="assets/logo/tech/Drizzle.png" alt="Drizzle" width="48" height="48" /><br />Drizzle</td>
+    <td align="center" width="140"><img src="assets/logo/tech/Prisma.png" alt="Prisma" width="48" height="48" /><br />Prisma</td>
   </tr>
 </table>
 
@@ -59,13 +68,12 @@ Web UI・フロントエンド
   <tr>
     <td align="center" width="140"><img src="assets/logo/tech/Python.png" alt="Python" width="48" height="48" /><br />Python</td>
     <td align="center" width="140"><img src="assets/logo/tech/FastAPI.png" alt="FastAPI" width="48" height="48" /><br />FastAPI</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Node.js.png" alt="Node.js" width="48" height="48" /><br />Node.js</td>
-    <td align="center" width="140"><img src="assets/logo/tech/Nest.js.png" alt="NestJS" width="48" height="48" /><br />NestJS</td>
   </tr>
   <tr>
     <td align="center" width="140"><img src="assets/logo/tech/Swagger.png" alt="Swagger" width="48" height="48" /><br />Swagger</td>
     <td align="center" width="140"><img src="assets/logo/tech/Ruby.png" alt="Ruby" width="48" height="48" /><br />Ruby</td>
     <td align="center" width="140"><img src="assets/logo/tech/rails.png" alt="Rails" width="48" height="48" /><br />Rails</td>
+    <td align="center" width="140"><img src="assets/logo/tech/RSpec.png" alt="Rails" width="48" height="48" /><br />RSpec</td>
   </tr>
 </table>
 
@@ -147,4 +155,4 @@ LLM・AI コーディングツール
 
 ---
 
-<p align="center"><strong>Jboy · AI × Mobile Developer</strong></p>
+<p align="center"><strong>Jboy · AI × App Developer</strong></p>
