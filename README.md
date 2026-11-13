@@ -75,7 +75,7 @@ TypeScript/Node.js
   </tr>
   <tr>
     <td align="center" width="140">
-        <img src="assets/logo/tech/Mantine.png" alt="Mantine" width="48" height="48" /><br />Mantine
+        <img src="assets/logo/tech/mantine.svg" alt="Mantine" width="48" height="48" /><br />Mantine
     </td>
     <td align="center" width="140">
         <img src="assets/logo/tech/tanstack.png" alt="TanStack Start" width="48" height="48" /><br />TanStack Start
