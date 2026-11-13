@@ -27,11 +27,11 @@ iOS / Android /Web
     <td align="center" width="140">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/logo/tech/Apple-dark.png" />
-          <img src="assets/logo/tech/Apple-light.png" alt="iOS / Apple" width="48" height="48" />
-        </picture><br />iOS / Apple
+          <img src="assets/logo/tech/Apple-light.png" alt="iOS" width="48" height="48" />
+        </picture><br />iOS
     </td>
     <td align="center" width="140">
-        <img src="assets/logo/tech/Android.png" alt="Android / Google" width="48" height="48" /><br />Android / Google
+        <img src="assets/logo/tech/Android.png" alt="Android" width="48" height="48" /><br />Android
     </td>
     <td align="center" width="140">
         <img src="assets/logo/tech/Swift.png" alt="Swift" width="48" height="48" /><br />Swift
